@@ -40,7 +40,7 @@ Then restart Ghost, and select the theme on the Admin control pannel.
 ## Configuration
 
 ### Disqus
-Coming soon...
+Take a look [here](http://academy.ghost.org/adding-disqus-to-your-ghost-blog/)
 
 ### Pace
 
@@ -77,7 +77,12 @@ Here's the css code of the 'minimal' theme :
 ```
 
 ### Google Analytics
-Coming soon...
+Set your Google Analytics id in the code injection (admin area).
+
+```javascript
+// to enable Google Analytics
+var ga_id = 'YOUR-ID';
+```
 
 ### Font Awesome
 Coming soon...
