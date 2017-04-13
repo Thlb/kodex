@@ -1,0 +1,38 @@
+{
+    "name": "kodex",
+    "description": "Kodex is a theme designed for Ghost with a timeline main page,and enhanced by the same features of awesome Odin's theme.",
+    "demo": "",
+    "version": "0.1.0",
+    "engines": {
+        "ghost": ">=0.7.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Thibaud Gahagnon",
+        "email": "",
+        "url": "http://while-true.io"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs",
+            "Timeline"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "timeline"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thlb/kodex.git"
+    },
+    "bugs": "https://github.com/thlb/kodex/issues",
+    "contributors": "https://github.com/thlb/kodex/graphs/contributors"
+}
